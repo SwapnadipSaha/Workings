@@ -1,0 +1,64 @@
+﻿ /*The universal selector. This styles will be applied to all individual elements of the page. Need to override them (if required), whyle styling the other elements.*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f1f1f1;
+}
+
+.container {
+    width: 400px;
+    margin: 150px auto; /*Generaly to make the element at the center of its parent/container*/
+}
+
+.card {
+    background: #373f4d;
+    color: #fff;
+    border-radius: 5px; /*To make rounded border*/
+    text-align: center;
+    padding: 60px 50px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+}
+
+    .card h1 {
+        font-size: 22px;
+        margin-bottom: 15px;
+        font-weight: 300;
+    }
+
+    .card p {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+
+    .card .form-group {
+        margin-bottom: 20px;
+    }
+
+    .card input[type='text'] { /*For input types*/
+        width: 100%;
+        padding: 15px 10px;
+        font-size: large;
+        border: none;
+        background-color: #f1f1f1;
+    }
+
+    .card button {
+        width: 100%;
+        padding: 15px 10px;
+        font-size: large;
+        border: none;
+        background: linear-gradient( 90deg, rgba(242, 132, 62, 1) 21%, rgba(239, 111, 69, 1) 61% ); /*from cssgradient.io*/
+        color: #fff;
+        cursor: pointer;
+    }
+
+        .card button:hover {
+            background: linear-gradient( 90deg, rgba(232, 132, 62, 1) 21%, rgba(229, 111, 69, 1) 61% );
+        }
+

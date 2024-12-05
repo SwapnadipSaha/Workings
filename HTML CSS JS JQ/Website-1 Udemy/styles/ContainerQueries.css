@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins',Montserrat,sans-serif;
+    font-size: 18px;
+    display: flex;
+}
+p {
+    padding: 2rem;
+    line-height:1.6;
+}
+main {
+    container-type: inline-size;
+    width: 100%;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+    main p {
+        background-color: lightgreen;
+        color: indianred;
+        text-shadow: 1px 1px 0.5px black;
+        box-shadow: 1px 1px 0.5px black;
+    }
+
+aside {
+    container-type: inline-size;
+    container-name: aside;
+    flex: 0 0 30%;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+    aside p {
+        background-color: #ccc;
+        width: 100%;
+    }
+
+@container(max-width:992px) {
+    main p {
+        background-color: indianred;
+        color: black;
+        text-shadow: none;
+        box-shadow: none;
+        text-align: center;
+    }
+}
+
+@container aside (max-width:300px) {
+    aside p {
+        background-color: #ff6a00;
+    }
+}
+

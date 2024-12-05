@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\472124\\T Factor New\\PragimTech\\Workings\\C#\\PragimTech_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5F2C96-DDEE-47DD-80E3-418105ADBA37}|PragimTech_CSharp\\PragimTech_CSharp.csproj|d:\\472124\\t factor new\\pragimtech\\workings\\c#\\pragimtech_csharp\\pragimtech_csharp\\42. listcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5F2C96-DDEE-47DD-80E3-418105ADBA37}|PragimTech_CSharp\\PragimTech_CSharp.csproj|solutionrelative:pragimtech_csharp\\42. listcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5F2C96-DDEE-47DD-80E3-418105ADBA37}|PragimTech_CSharp\\PragimTech_CSharp.csproj|d:\\472124\\t factor new\\pragimtech\\workings\\c#\\pragimtech_csharp\\pragimtech_csharp\\41. dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5F2C96-DDEE-47DD-80E3-418105ADBA37}|PragimTech_CSharp\\PragimTech_CSharp.csproj|solutionrelative:pragimtech_csharp\\41. dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "42. ListCollections.cs",
+              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Workings\\C#\\PragimTech_CSharp\\PragimTech_CSharp\\42. ListCollections.cs",
+              "RelativeDocumentMoniker": "PragimTech_CSharp\\42. ListCollections.cs",
+              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Workings\\C#\\PragimTech_CSharp\\PragimTech_CSharp\\42. ListCollections.cs",
+              "RelativeToolTip": "PragimTech_CSharp\\42. ListCollections.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAMwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:57:29.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "41. Dictionary.cs",
+              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Workings\\C#\\PragimTech_CSharp\\PragimTech_CSharp\\41. Dictionary.cs",
+              "RelativeDocumentMoniker": "PragimTech_CSharp\\41. Dictionary.cs",
+              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Workings\\C#\\PragimTech_CSharp\\PragimTech_CSharp\\41. Dictionary.cs",
+              "RelativeToolTip": "PragimTech_CSharp\\41. Dictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:57:01.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial scale=1.0" />     <!--For responsive-->
+  <meta name="description" content="HTML CSS and JavaScript First Course-- Udemy" />     <!--While searching, this part will be displayed as heading-->
+  <meta name="keywords" content="HTML CSS and JavaScript" />     <!--While searching, this part will be displayed as description, below the link-->
+  <meta name="author" content="Swapnadip Saha" />     <!--In case of blog site, this could be helpful-->
+  <meta name="robots" content="index, follow" />    <!--whether home page is index or no index, etc. -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <link id="theme-stylesheet" rel="stylesheet" href="styles/FlexBoxChallenge.css">
+  <title>FlexBox Layout Challenge</title>
+</head>
+<body>
+  <div class="redirection">
+    <a href="8. FlexBoxLayoutChallenge.html">My</a>
+    <a href="8.1. FlexBoxLayoutChallengeUdemy.html"> Udemy</a>
+    <a href="8.2. FlexBoxLayoutChallengeUdemyMediaQuery.html"> Udemy My Media Query</a>
+    <a href="8.3. FlexBoxLayoutChallengeUdemyMediaQueryUdemy.html"> Udemy Media Query</a>
+  </div>
+
+  <div class="container">
+    <header>
+      <h1>FlexBox Layout Challenge</h1>
+    </header>
+
+    <nav>
+      <ul class="navi">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="Main">
+      <div class="Section">
+        <h2>Lorem ipsum, dolor.</h2>
+        <p>
+          Lorem ipsum odor amet, consectetuer adipiscing elit. Mauris nostra blandit inceptos habitant tincidunt lobortis habitant. Fringilla litora magnis congue ligula leo parturient finibus molestie. Porta tempus in; pharetra finibus magna vitae dictumst. Fringilla nibh donec aliquet vehicula, dignissim condimentum vivamus. Montes varius parturient senectus accumsan velit molestie nisi lacus urna. Laoreet a dui integer tempor congue.
+
+          Neque sapien auctor nunc aenean sagittis posuere mus primis et. Donec integer taciti vivamus ac magnis. Litora aliquam fermentum netus euismod dis. Torquent neque suscipit; cursus sagittis mi vel pretium. Proin dui vestibulum lobortis ac condimentum. Inceptos ligula magnis ex sodales maecenas nascetur. Nunc ipsum eros dictum curae parturient sociosqu at augue. Quisque ipsum sed sem viverra senectus arcu lacinia pharetra. Scelerisque quam metus facilisi lectus quam aptent penatibus cursus? Fringilla sociosqu neque litora donec feugiat nullam.
+        </p>
+      </div>
+
+      <div class="Side">
+        <h3>Recent Posts</h3>
+        <ul class="recent ">
+          <li>Post 1</li>
+          <li>Post 2</li>
+          <li>Post 3</li>
+          <li>Post 4</li>
+          <li>Post 5</li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>
+<script>
+
+  // Function to change the stylesheet dynamically
+  function applyStylesheet(stylesheet) {
+    // Get the link element for the stylesheet
+    const stylesheetLink = document.getElementById('theme-stylesheet');
+
+    // Apply the specified stylesheet
+    stylesheetLink.href = stylesheet;
+  }
+</script>

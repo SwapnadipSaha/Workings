@@ -1,0 +1,150 @@
+﻿* {
+    font-family: 'Montserrat','Lucida Handwriting',sans-serif;
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+    line-height: 1.6;
+}
+
+.redirection {
+    background-color: rebeccapurple;
+}
+
+    .redirection a {
+        padding: 10px;
+        margin-right: 100px;
+        color: white;
+        text-transform: none;
+        text-decoration: none;
+    }
+
+body {
+    background-color: #27264B;
+}
+
+.Container {
+    background-color: aliceblue;
+    margin: 150px auto;
+    max-width: 1100px;
+    height: 800px;
+    border-radius: 10px;
+}
+
+.Pricing {
+    padding: 50px;
+    display: flex;
+}
+
+.Card {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 2px 2px rgb(128, 128, 128,0.4);
+    border-radius: 5px;
+    width: 500px;
+}
+
+    .Card h2 {
+        text-align: center;
+        text-transform: uppercase;
+        background-color: aliceblue;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .Card .Price {
+        text-align: center;
+        padding: 10px;
+        font-weight: 700;
+    }
+
+        .Card .Price sup {
+            font-size: 15px;
+            padding: 5px;
+        }
+
+        .Card .Price span {
+            font-size: 40px;
+        }
+
+        .Card .Price .per {
+            display: inline;
+            font-size: 15px;
+            padding: 5px;
+        }
+
+
+    .Card a {
+        text-align: center;
+        text-transform: none;
+        text-decoration: none;
+    }
+
+    .Card .btn {
+        background-color: white;
+        padding: 20px;
+        font-size: 17px;
+        text-align: center;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin: 20px;
+        display: block;
+        color: #000;
+        font-weight: 700;
+    }
+
+        .Card .btn:hover {
+            background-color: #000;
+            color: white;
+        }
+
+
+.Card ul {
+    margin: 5px;
+    list-style-type: none;
+}
+
+    .Card ul .fas {
+        padding: 5px;
+        color: green;
+    }
+
+    .Card ul li {
+        margin: 5px;
+    }
+
+.Card-Pro h2 {
+    background: rgb(245,245,245);
+    background: linear-gradient(90deg, rgba(245,245,245,1) 8%, rgba(123,0,255,0.7904411764705882) 24%);
+    color: #fff;
+}
+
+.Card-Pro .btn {
+    background-color: #000;
+    color: white;
+}
+
+    .Card-Pro .btn:hover {
+        background-color: white;
+        color: #000;
+    }
+
+.Card-ent h2 {
+    background: rgb(245,245,245);
+    background: linear-gradient(90deg, rgba(245,245,245,1) 8%, rgba(255,145,0,0.7904411764705882) 29%);
+    color: #fff;
+}
+
+.Price-info, .Main-Text {
+    padding: 5px;
+    text-align: center;
+    word-spacing: 5px;
+    font-weight: 500;
+}
+
+.Main-Text {
+    font-size: 14px;
+    text-indent: each-line;
+    margin: 15px;
+}

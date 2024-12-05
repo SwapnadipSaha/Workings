@@ -1,0 +1,99 @@
+﻿* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+:root { /*This is accessible everywhere..Generally place after *{}  */
+--primary-root-color: red;
+--secondary-root-color: yellow;
+--tertiary-root-color: pink;
+--shadow-Opacity: 0.5;
+}
+
+body {
+font-family: 'Lato',sans-serif;
+}
+
+header {
+background-color: lightblue;
+padding: 20px 0;
+text-align: center;
+margin-bottom: 10px;
+}
+
+.container {
+display: flex;
+max-width: 600px;
+margin: 30px auto;
+gap: 20px;
+}
+
+.box {
+flex: 1;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,var(--shadow-Opacity));
+}
+
+.container { /*This is the scope. The variable or custom property --primary-color will only work inside container class.*/
+--primary-color: lightblue;
+}
+
+.box-1 {
+background-color: var(--primary-root-color);
+}
+
+.box-2 {
+background-color: var(--secondary-root-color);
+}
+
+.box-3 {
+background-color: var(--tertiary-root-color);
+}
+
+body {
+background-color: var(--primary-color); /*This will not work, as body or header is putside comtainer class.*/
+}
+
+header {
+background-color: var(--primary-color);
+/*This will not work, as body or header is outside comtainer class.
+*/
+}
+
+header {
+background-color: var(--primary-root-color);
+/*This will work.
+*/
+}
+
+img {
+max-width: 50%;
+max-height: 50%;
+margin: auto 70px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+-o-border-radius: 5px;
+-ms-border-radius: 5px;
+border-radius: 5px;
+/*For Filter Any one will be working.*/
+/*filter: grayscale(100%);*/ /*Converted to black and white 100% is full black and white*/
+/*filter: blur(3px);*/ /*Converted to blur.*/
+/*filter: brightness(50%);*/ /*100% is default.*/
+/*filter: contrast(500%);*/ /*100% is default.*/
+/*filter: drop-shadow(10px 10px 5px red); 
+filter:hue-rotate(90deg);
+filter: invert(100%);*/ /*Color Inversion*/
+/*filter: opacity(50%);*/ /*Transparency. O is min transparent. 100 is max transparent*/
+/*filter: saturate(200%);*/ /* Color Saturation.100% is default*/
+/*filter: sepia(100%);*/ /*Color to brownish.highert than 100. Higher the color fades to brownish*/
+/*For multiple filgters to work simultaneously*/
+
+filter: grayscale(100%) blur(3px);
+
+
+/*reset filters*/
+filter: none;
+}

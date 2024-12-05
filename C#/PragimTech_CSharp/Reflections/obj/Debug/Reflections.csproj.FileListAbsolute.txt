@@ -1,0 +1,20 @@
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\bin\Debug\Reflections.exe.config
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\bin\Debug\Reflections.exe
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\bin\Debug\Reflections.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.Form1.resources
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.Properties.Resources.resources
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.csproj.GenerateResource.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.exe
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\Reflections\obj\Debug\Reflections.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\bin\Debug\Reflections.exe.config
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\bin\Debug\Reflections.exe
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\bin\Debug\Reflections.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.Form1.resources
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.Properties.Resources.resources
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.csproj.GenerateResource.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.exe
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\Reflections\obj\Debug\Reflections.pdb

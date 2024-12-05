@@ -1,0 +1,46 @@
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.exe
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.deps.json
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.runtimeconfig.json
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamB.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\Reflections.exe
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamB.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\Reflections.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\Reflections.exe.config
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.AssemblyInfoInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.AssemblyInfo.cs
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTe.03AEAA6A.Up2Date
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\refint\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.genruntimeconfig.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\ref\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.AssemblyInfoInputs.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.AssemblyInfo.cs
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.exe
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.deps.json
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.runtimeconfig.json
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\PragimTech_CSharp.pdb
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamB.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\Reflections.exe
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\ProjectA.TeamB.pdb
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\Reflections.pdb
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\bin\Debug\net8.0\Reflections.exe.config
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTe.03AEAA6A.Up2Date
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\refint\PragimTech_CSharp.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.pdb
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\PragimTech_CSharp.genruntimeconfig.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\PragimTech_CSharp\obj\Debug\net8.0\ref\PragimTech_CSharp.dll

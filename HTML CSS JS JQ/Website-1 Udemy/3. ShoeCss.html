@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial scale=1.0" />     <!--For responsive-->
+    <meta name="description" content="HTML CSS and JavaScript First Course-- Udemy" />     <!--While searching, this part will be displayed as heading-->
+    <meta name="keywords" content="HTML CSS and JavaScript" />     <!--While searching, this part will be displayed as description, below the link-->
+    <meta name="author" content="Swapnadip Saha" />     <!--In case of blog site, this could be helpful-->
+    <meta name="robots" content="index, follow" />    <!--whether home page is index or no index, etc. -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!--<link href="styles/StyleSheet1.css" rel="stylesheet" />-->
+    <link id="theme-stylesheet" rel="stylesheet" href="styles/StyleSheet1.css">
+    <title>Shoe CSS</title>
+</head>
+<body>
+    <button onclick="applyStylesheet('styles/StyleSheet1.css')">My</button>
+    <button onclick="applyStylesheet('styles/StyleSheet1Udemy.css')">Udemy</button>
+
+    <div class="container">
+        <div class="card card-1">
+            <h2>Keep it Sporty</h2>
+            <p>Shoes to keep you active and healthy</p>
+            <a href="#">View Collection</a>
+            <!--<img src="contents/images/Sporty.png" width="10%" />-->
+        </div>
+
+        <div class="card card-2">
+            <h2>Keep it Casual</h2>
+            <p>Shoes to keep you comfortable</p>
+            <a href="#">View Collection</a>
+            <!--<img src="contents/images/Casual.png" width="10%" />-->
+        </div>
+
+        <div class="card card-3">
+            <h2>Keep it Formal</h2>
+            <p>Shoes to keep you looking sharp</p>
+            <a href="#">View Collection</a>
+            <!--<img src="contents/images/formal.png" width="16%" />-->
+        </div>
+    </div>
+
+</body>
+</html>
+
+<script>
+
+    // Function to change the stylesheet dynamically
+    function applyStylesheet(stylesheet) {
+        // Get the link element for the stylesheet
+        const stylesheetLink = document.getElementById('theme-stylesheet');
+
+        // Apply the specified stylesheet
+        stylesheetLink.href = stylesheet;
+    }
+</script>

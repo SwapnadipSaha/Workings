@@ -1,0 +1,30 @@
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.deps.json
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfoInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfo.cs
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech csharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.deps.json
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfoInputs.cache
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfo.cs
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Module 2\1. C# Tutorial for Beginners\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.deps.json
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.AssemblyReference.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfoInputs.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfo.cs
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+D:\472124\T Factor New\PragimTech\Workings\C#\PragimTech_CSharp\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.pdb

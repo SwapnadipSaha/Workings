@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website|d:\\472124\\t factor new\\pragimtech\\module 1\\1. html css\\1. modern html \u0026 css from the beginning 2.0 (2024 revamp) udemy\\website\\styles\\stylesheet1udemy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website|solutionrelative:styles\\stylesheet1udemy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website|d:\\472124\\t factor new\\pragimtech\\module 1\\1. html css\\1. modern html \u0026 css from the beginning 2.0 (2024 revamp) udemy\\website\\3. shoecss.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website|solutionrelative:3. shoecss.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website|d:\\472124\\t factor new\\pragimtech\\module 1\\1. html css\\1. modern html \u0026 css from the beginning 2.0 (2024 revamp) udemy\\website\\styles\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website|solutionrelative:styles\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\styles\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "styles\\StyleSheet1.css",
+              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\styles\\StyleSheet1.css",
+              "RelativeToolTip": "styles\\StyleSheet1.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T06:36:54.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleSheet1Udemy.css",
+              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\styles\\StyleSheet1Udemy.css",
+              "RelativeDocumentMoniker": "styles\\StyleSheet1Udemy.css",
+              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\styles\\StyleSheet1Udemy.css",
+              "RelativeToolTip": "styles\\StyleSheet1Udemy.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T07:10:27.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3. ShoeCss.html",
+              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\3. ShoeCss.html",
+              "RelativeDocumentMoniker": "3. ShoeCss.html",
+              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Module 1\\1. HTML CSS\\1. Modern HTML \u0026 CSS From The Beginning 2.0 (2024 Revamp) Udemy\\Website\\3. ShoeCss.html",
+              "RelativeToolTip": "3. ShoeCss.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-21T06:36:27.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

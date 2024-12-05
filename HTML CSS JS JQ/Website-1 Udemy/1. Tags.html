@@ -1,0 +1,367 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial scale=1.0" />     <!--For responsive-->
+  <meta name="description" content="HTML CSS and JavaScript First Course-- Udemy" />     <!--While searching, this part will be displayed as heading-->
+  <meta name="keywords" content="HTML CSS and JavaScript" />     <!--While searching, this part will be displayed as description, below the link-->
+  <meta name="author" content="Swapnadip Saha" />     <!--In case of blog site, this could be helpful-->
+  <meta name="robots" content="index, follow" />    <!--whether home page is index or no index, etc. -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <title>Some tags</title>
+</head>
+<body>
+  <p id="SamePageLinkTop"></p>
+  <a href="#SamePageLink">Go to Page Bottom</a>
+
+
+  <h2>Some Imp Tags</h2>
+  <strong>strong-->For Bold</strong>&nbsp;&nbsp;&nbsp;
+  <em>em-->For Italic</em>&nbsp;&nbsp;&nbsp;
+  <mark>mark-->For Highlighted</mark>&nbsp;&nbsp;&nbsp;
+  <del>del-->Deleted (Strike Through)</del>&nbsp;&nbsp;&nbsp;
+  <ins>ins-->Inserted(Under Strike)</ins>&nbsp;&nbsp;&nbsp;
+  <sup>sup-->Superscripted</sup>&nbsp;&nbsp;&nbsp;
+  <sub>sub-->Subscripted</sub>&nbsp;&nbsp;&nbsp;
+
+  <h2>Unordered and Ordered List </h2>
+
+  <ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+  </ul>
+
+  <ol>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+  </ol>
+
+
+  <h2>Definition List </h2>
+  <dl>
+    <dt>Def 1</dt>
+    <dd>Def 1 Item 1</dd>
+    <dd>Def 1 Item 2</dd>
+    <dt>Def 2</dt>
+    <dd>Def 2 Item 1</dd>
+    <dd>Def 2 Item 2</dd>
+    <dt>Def 3</dt>
+    <dd>Def 3 Item 1</dd>
+    <dd>Def 3 Item 2</dd>
+  </dl>
+
+  <a href="mailto:hms.applsupport@tmckolkata.com">Email Link</a><br />
+  <a href="contents/pdf/C238861723_SIS_DOC.pdf" target="_blank" title="Download the document">Download/view</a>
+
+  <h2>Image Audio Video</h2>
+  <figure>
+    <img src="contents/images/IMG_20240708_233457.jpg" width="20%" alt="Image Alt" />
+    <figcaption>This is FigCaption</figcaption>
+  </figure>
+
+  <pre>		The <b><u><mark>pre</mark></u></b> tag will print                the content in the same format, 
+			   as provided. With the exact	  spaces and tabs.	</pre>
+  <h3>ImageMap</h3>
+  <img src="contents/images/workplace.jpg" alt="Image map Example" usemap="#computerMap" />
+  <map name="computerMap">
+    <area target="_blank" shape="rect" coords="34,44,270,350" href="https://www.dell.com/en-in/shop/work-from-home-deals/g15-gaming-laptop/spd/g-series-15-5530-laptop/gn5530n7hy001orb1o" alt="My laptop" />
+    <area target="_blank" shape="rect" coords="290,172,333,350" href="https://www.realme.com/in/realme-6-pro" alt="My Phone" />
+    <area target="_blank" shape="circle" coords="337,300,45" href="https://www.zinodavidoff.com/coffee" alt="Coffee" />
+  </map>
+
+  <h3>Audio</h3>
+
+  <audio src="contents/Audio/Audio.mp3" controls type="audio/mp3"></audio>
+
+  <audio controls>
+    <source src="../Sample_BeeMoved_96kHz24bit.flac" />
+    <p>Browser is not supporting the audio</p>
+  </audio>
+
+  <!--autoplay toStart
+   <!-- <audio src="../Audio.mp3" autoplay type="audio/mp3"></audio> -->
+  <audio src="contents/Audio/Audio.mp3" type="audio/mp3"></audio>
+
+  <!-- <audio src="../Audio.mp3" loop controls autoplay type="audio/mp3"></audio> -->
+  <audio src="contents/Audio/Audio.mp3" loop controls type="audio/mp3"></audio>
+
+  <h3>Video</h3>
+  <video width="50%" height="50%" src="../Samplemp4.mp4" controls type="video/mp4"></video>
+
+  <video width="50%" height="50%" controls>
+    <source src="contents/Video//Samplemp4.mp4" />
+    <p>Browser is not supporting the video</p>
+  </video>
+
+  <video width="50%" height="50%" src="contents/Video/Samplemp4.mp4" autoplay type="video/mp4"></video>
+
+  <video width="50%" height="50%" src="contents/Video/Samplemp4.mp4" loop controls autoplay type="video/mp4"></video>
+
+  <video width="50%" height="50%" src="contents/Video/Samplemp4.mp4" muted loop controls autoplay type="video/mp4"></video>
+
+  <figure>
+    <figcaption>
+      <video width="50%" height="50%" src="contents/Video/Samplemp4.mp4" controls type="video/mp4"></video>
+      <a href="../Samplemp4.mp4">Download</a>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <figcaption>
+      <audio src="contents/Audio/Audio.mp3" controls type="audio/mp3"></audio>
+      <a href="contents/Audio/Audio.mp3">Download</a>
+    </figcaption>
+  </figure>
+
+  <h3>IFrame</h3>
+  <iframe src="2. PriceTag.html">PriceTag</iframe>
+
+  <iframe src="https://youtube.com/embed/8sXRyHI3bLw">Youtube</iframe>
+  <embed src="https://youtube.com/embed/8sXRyHI3bLw" />Youtube Embed tag
+  <object data="https://youtube.com/embed/8sXRyHI3bLw" />Youtube Object tag
+  <iframe src="https://www.google.com/maps/embed/place/GMN+Towers/@22.627434,88.4228151,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89fd6de521221:0xa9db9fd64aa1c50f!8m2!3d22.627434!4d88.42539!16s%2Fg%2F11ny0pyx4s?entry=ttu">Home</iframe>
+
+  <iframe src="contents/pdf/C238861723_SIS_DOC.pdf">pdf</iframe>
+
+  <svg width="200" height="200">
+
+    <circle cx="70" cy="70" r="60" fill="blue" stroke="black" stroke-width="5"></circle>
+    <text x="15" y="75" font-size="20" font-family="verdana" fill="white">SVG Circle</text>
+  </svg>
+  <a href="https://www.blobmaker.app/" target="_blank">Blobmaker SVG</a>
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FF0066" d="M31.5,-27C39.7,-14.8,44.6,-1.7,45.2,16.4C45.9,34.5,42.4,57.7,30.8,62.8C19.2,67.9,-0.5,55,-14.4,43.2C-28.2,31.4,-36.2,20.8,-42.4,6.1C-48.7,-8.6,-53.1,-27.3,-45.8,-39.3C-38.4,-51.3,-19.2,-56.7,-3.8,-53.7C11.6,-50.7,23.2,-39.2,31.5,-27Z" transform="translate(100 100)" />
+  </svg>
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#24A148" d="M14.7,-13C22.2,-2.2,33.7,4,33.5,8.8C33.3,13.5,21.4,16.6,12.9,16.9C4.4,17.2,-0.7,14.6,-8.6,12.7C-16.6,10.9,-27.4,9.8,-38.4,-1.8C-49.5,-13.4,-60.8,-35.4,-54.4,-45.9C-48.1,-56.4,-24,-55.3,-10.2,-47.2C3.6,-39,7.1,-23.8,14.7,-13Z" transform="translate(100 100)" />
+  </svg>
+
+  <h3>Pop Over</h3>
+
+  <button popovertarget="mypopover-1">Open pop Over 1</button>
+  <div id="mypopover-1" popover>Popover content 1</div>
+
+  <button popovertarget="mypopover-2">Open pop Over 2</button>
+  <div id="mypopover-2" popover>
+    <h3>This is Pop Over 2 &lt;H3&gt;"</h3>
+    <p>Hello from popover 2  &lt;p&gt;</p>
+  </div>
+
+  <h3>Details: On screen expand and collapse</h3>
+
+  <details>
+    <summary>Details</summary>
+    Lorem ipsum dolor sit amet, consectetur
+  </details>
+
+
+  <h2>
+    Progress
+  </h2>
+  <label for="file">Progress</label>
+  <progress id="file" max="100" min="50">50%</progress>
+
+  <h2>
+    Meter
+  </h2>
+  <label for="fuel">Fuel</label>
+  <meter value="50" max="100" min="0" low="20" high="80" optimum="75">50/100</meter>
+
+
+  <h2>Divs</h2>
+  <div contenteditable="true">
+    The content under div is editable
+  </div><br />
+  <div draggable="true">
+    The content under div is draggable
+  </div><br />
+
+  <div draggable="true">
+    This is draggable and auto focussed. While loading the page first time, focus will be here.
+    <input placeholder="This is draggable and auto focussed" type="text" autofocus />
+  </div><br />
+
+
+  <h2>Inputs and Labels</h2>
+  <div>
+    <label for="name">Normal Input Text</label>&nbsp;&nbsp;&nbsp;
+    <input placeholder="Name" for="name" type="text" name="name" id="name" required minlength="5" maxlength="200" />
+  </div><br />
+  <div>
+    <label for="email">Email</label>&nbsp;&nbsp;&nbsp;
+    <input placeholder="abc@xyz.com" for="email" type="email" name="email" id="email" required />
+  </div><br />
+
+  <div>
+    <label for="password">Password</label>&nbsp;&nbsp;&nbsp;
+    <input placeholder="Password" for="password" type="password" name="password" id="password" minlength="5" maxlength="20" required />
+  </div><br />
+
+  <div>
+    <label for="product">Product</label>&nbsp;&nbsp;&nbsp;
+    <select for="product" id="product" name="product" multiple size="5">
+      <option value="0">IPhone</option>
+      <option value="1" selected>iMac</option>
+      <option value="2">Macbook</option>
+      <option value="3">Macbook Pro</option>
+    </select>
+  </div><br />
+  <div>
+    <label for="message">Message</label>
+    <textarea id="message" name="message" for="Message" placeholder="Enter your message here....." rows="5" cols="50"></textarea>
+  </div><br />
+  <h2>Checkboxes</h2>
+  <div>
+    <label for="html">
+      <input for="html" type="checkbox" name="html" id="html" />HTML
+    </label>
+  </div>
+  <div>
+    <label for="JavaScript">
+      <input for="JavaScript" type="checkbox" name="JavaScript" id="JavaScript" checked />JavaScript
+    </label>
+  </div>
+  <div>
+    <label for="css">
+      <input for="css" type="checkbox" name="css" id="css" />CSS
+    </label>
+  </div>
+
+  <br />
+
+  <h2>Radio Buttons</h2>
+  <div>
+    <label for="small">
+      <input for="small" type="radio" name="small" id="small" />Small
+    </label>
+  </div>
+
+  <div>
+    <label for="medium">
+      <input for="medium" type="radio" name="medium" id="medium" checked />Medium
+    </label>
+  </div>
+
+  <div>
+    <label for="large">
+      <input for="large" type="radio" name="large" id="large" />Large
+    </label>
+  </div>
+
+  <br />
+
+  <h2>Color Pickers</h2>
+  <div>
+    <label for="color">Color       </label>
+    <input for="color" type="color" name="color" id="color" />
+  </div>
+  <br />
+
+  <h2>Date and time</h2>
+  <div>
+    <label for="date">Date       </label>
+    <input for="date" type="date" name="date" id="date" />
+  </div>
+  <br />
+  <div>
+    <label for="time">Time       </label>
+    <input for="time" type="time" name="time" id="time" />
+  </div>
+  <br />
+  <div>
+    <label for="week">Week       </label>
+    <input for="week" type="week" name="week" id="week" />
+  </div>
+  <br />
+  <div>
+    <label for="month">Month       </label>
+    <input for="month" type="month" name="month" id="month" />
+  </div>
+
+  <br />
+
+  <div>
+    <label for="range">Range       </label>
+    <input for="range" type="range" name="range" id="range" min="0" max="100" step="5" />
+  </div>
+
+  <br />
+
+  <div>
+    <label for="url">URL       </label>
+    <input for="url" type="url" name="url" id="url" />
+  </div>
+
+  <br />
+
+  <div>
+    <input type="submit" id="submit" value="Submit Input" />
+    <button id="submitbtn">Submit Button </button>
+  </div>
+  <br />
+  <h2>DataList</h2>
+
+  <h3>Combination of DDL and TextBox</h3>
+
+  <label for="favLang">Favourite Languages</label>
+  <input list="languages" id="favLang" name="FavLang" /> <!--list=language and datalist id should be same-->
+  <datalist id="languages">
+    <option value="JavaScript"></option>
+    <option value="PHP"></option>
+    <option value="C#"></option>
+    <option value="Python"></option>
+    <option value="Ruby"></option>
+  </datalist>
+  <br />
+  <label for="favLang">Popular Hours</label>
+  <input type="time" list="popularHrs" /> <!--list=language and datalist id should be same-->
+  <datalist id="popularHrs">
+    <option value="10:00"></option>
+    <option value="12:00"></option>
+    <option value="15:00"></option>
+    <option value="20:00"></option>
+    <option value="21:00"></option>
+  </datalist>
+
+  <br />
+
+  <label for="tick">Tip Amount</label>
+  <input type="range" list="tickMarks" id="tick" min="10" max="100" /> <!--list=language and datalist id should be same-->
+  <datalist id="tickMarks">
+    <option value="0"></option>
+    <option value="10"></option>
+    <option value="20"></option>
+    <option value="30"></option>
+    <option value="40"></option>
+    <option value="50"></option>
+    <option value="60"></option>
+    <option value="70"></option>
+    <option value="80"></option>
+    <option value="90"></option>
+    <option value="100"></option>
+  </datalist>
+  <br />
+
+  <label for="color">Pick a color</label>
+  <input type="color" list="chooseColors" id="color" /> <!--list=language and datalist id should be same-->
+  <datalist id="chooseColors">
+    <option value="#ffffff"></option>
+    <option value="#800000"></option>
+    <option value="#8B0000"></option>
+    <option value="#A52A2A"></option>
+    <option value="#DC143C"></option>
+
+
+  </datalist>
+
+  <br />
+  <p id="SamePageLink">Page Bottom</p><a href="#SamePageLinkTop">Go to Top</a>
+</body>
+</html>

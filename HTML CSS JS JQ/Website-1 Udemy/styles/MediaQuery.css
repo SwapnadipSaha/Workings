@@ -1,0 +1,66 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+@media screen and (max-width:1200px) {
+
+/*in case of max-width:1200px it won't work beyond 1200px */
+/*in case of min-width:1200px it won't work for less than 1200px */
+
+.WideScreen {
+background-color: coral;
+}
+}
+
+@media screen and (max-width:992px) {
+
+.Normal {
+background-color: darkblue;
+color: white;
+}
+}
+
+
+
+@media (max-width:768px) {
+
+.Tablet {
+background-color: darkgreen;
+color: white;
+}
+}
+@media (max-width:576px) {
+
+.Smartphone {
+background-color: darkmagenta;
+color: white;
+}
+}
+
+@media(orientation:landscape) {
+
+.Landscape {
+background-color: Highlight;
+color: white;
+}
+}
+
+@media(max-height:500px) {
+
+.Height {
+background-color: lightcyan;
+color: #ccc;
+}
+}
+@media (min-width:768px) and (max-width:991px) {
+body {
+background: rgb(0,217,242);
+background: linear-gradient(90deg, rgba(0,217,242,1) 33%, rgba(0,153,166,1) 71%);
+}
+}

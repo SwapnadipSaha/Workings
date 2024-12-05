@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\472124\\T Factor New\\PragimTech\\Workings\\HTML CSS JS JQ\\Website-1 Udemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Workings\\HTML CSS JS JQ\\Website-1 Udemy|d:\\472124\\t factor new\\pragimtech\\workings\\html css js jq\\website-1 udemy\\1. tags.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5278AEAE-0E19-4552-B136-0CC54F195626}|D:\\472124\\T Factor New\\PragimTech\\Workings\\HTML CSS JS JQ\\Website-1 Udemy|solutionrelative:1. tags.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1. Tags.html",
+              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Workings\\HTML CSS JS JQ\\Website-1 Udemy\\1. Tags.html",
+              "RelativeDocumentMoniker": "1. Tags.html",
+              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Workings\\HTML CSS JS JQ\\Website-1 Udemy\\1. Tags.html",
+              "RelativeToolTip": "1. Tags.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T09:40:28.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

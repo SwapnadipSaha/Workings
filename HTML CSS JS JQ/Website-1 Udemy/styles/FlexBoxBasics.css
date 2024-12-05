@@ -1,0 +1,40 @@
+*{
+    font-family:'Poppins','Lucida Handwriting',sans-serif;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+.container {
+    display: flex; /* Place in the container folder, to apply flex property to direct children */
+    flex-direction: row; /* Default.  Reverse will arrange in reverse order */
+    flex-wrap: wrap; /* Oherwise, the actual height and width will be changed. wrap will make these fixed.Reverse will arrange in reverse order */
+    gap: 10px; /* Make ro and column gaps between the children elements.row-gap and column-gap properties are also there, to make gaps for only rows and columns */
+    justify-content: flex-end;
+
+
+}
+
+.divs {
+    background-color: rebeccapurple;
+    height: 200px;
+    width: 200px;
+    border: 1px groove white;
+    color: white;
+}
+
+.container1 {
+    display: flex; /* Place in the container folder, to apply flex property to direct children */
+    flex-direction: row; /* Default.  Reverse will arrange in reverse order */
+    flex-wrap: wrap; /* Oherwise, the actual height and width will be changed. wrap will make these fixed.Reverse will arrange in reverse order */
+    gap: 10px; /* Make ro and column gaps between the children elements.row-gap and column-gap properties are also there, to make gaps for only rows and columns */
+    align-content:center;
+}
+
+.divs1 {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+    border: 1px groove white;
+    color: white;
+}
