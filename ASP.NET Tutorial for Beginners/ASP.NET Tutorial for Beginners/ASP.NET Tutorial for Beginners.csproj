@@ -71,39 +71,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="1. ViewState.aspx" />
-    <Content Include="11. ListBox.aspx" />
-    <Content Include="17. MultiView.aspx" />
-    <Content Include="16. Calendar.aspx" />
-    <Content Include="15. AdRotater.aspx" />
-    <Content Include="14. FileUpload.aspx" />
-    <Content Include="13. ListControls.aspx" />
-    <Content Include="12. CheckBoxAndListBox.aspx" />
-    <Content Include="18..1 WizardControlTemplates.aspx" />
-    <Content Include="20. Literal.aspx" />
-    <Content Include="19. UseSubmitBehavior Property.aspx" />
-    <Content Include="18. WizardControl.aspx" />
-    <Content Include="2. StateVariables.aspx" />
-    <Content Include="21. Panel.aspx" />
-    <Content Include="22. DynamicControl.aspx" />
-    <Content Include="23. CustomValidator.aspx" />
-    <Content Include="24. Navigation.aspx" />
-    <Content Include="3. ViewStateTextBox.aspx" />
-    <Content Include="3.1. ViewStateTextBox1.aspx" />
-    <Content Include="3.2. SessionState.aspx" />
-    <Content Include="3.3. SessionState1.aspx" />
-    <Content Include="3.4. ApplicationState.aspx" />
-    <Content Include="3.5. ApplicationState1.aspx" />
-    <Content Include="4. PageLifeCycle.aspx" />
-    <Content Include="5. IsPostBack.aspx" />
-    <Content Include="6. CheckBox.aspx" />
-    <Content Include="7. ButtonCommand.aspx" />
-    <Content Include="8.1. CascadingDropDownList.aspx" />
-    <Content Include="8. DropDownList.aspx" />
     <Content Include="9. Mapping\ChildOfMapping\ChildOfMapping.aspx" />
     <Content Include="9. Mapping\PageInMappingFolder.aspx" />
-    <Content Include="10. CheckRadioBulletBoxList.aspx" />
-    <Content Include="9. PageInRoot.aspx" />
     <Content Include="9.1 AnotherMapping\ChildOfAnotherMapping\ChildOfAnotherMapping.xml" />
     <Content Include="contents\AddData.xml" />
     <Content Include="contents\Country.xml" />
@@ -112,212 +81,40 @@
     <Content Include="Images\google.png" />
     <Content Include="Images\Pragim.png" />
     <Content Include="Images\Youtube.png" />
+    <Content Include="Views\1. ViewState.aspx" />
+    <Content Include="Views\10. CheckRadioBulletBoxList.aspx" />
+    <Content Include="Views\11. ListBox.aspx" />
+    <Content Include="Views\12. CheckBoxAndListBox.aspx" />
+    <Content Include="Views\13. ListControls.aspx" />
+    <Content Include="Views\14. FileUpload.aspx" />
+    <Content Include="Views\15. AdRotater.aspx" />
+    <Content Include="Views\16. Calendar.aspx" />
+    <Content Include="Views\17. MultiView.aspx" />
+    <Content Include="Views\18. WizardControl.aspx" />
+    <Content Include="Views\18..1 WizardControlTemplates.aspx" />
+    <Content Include="Views\19. UseSubmitBehavior Property.aspx" />
+    <Content Include="Views\2. StateVariables.aspx" />
+    <Content Include="Views\20. Literal.aspx" />
+    <Content Include="Views\21. Panel.aspx" />
+    <Content Include="Views\22. DynamicControl.aspx" />
+    <Content Include="Views\23. CustomValidator.aspx" />
+    <Content Include="Views\24. Navigation.aspx" />
+    <Content Include="Views\3. ViewStateTextBox.aspx" />
+    <Content Include="Views\3.1. ViewStateTextBox1.aspx" />
+    <Content Include="Views\3.2. SessionState.aspx" />
+    <Content Include="Views\3.3. SessionState1.aspx" />
+    <Content Include="Views\3.4. ApplicationState.aspx" />
+    <Content Include="Views\3.5. ApplicationState1.aspx" />
+    <Content Include="Views\4. PageLifeCycle.aspx" />
+    <Content Include="Views\5. IsPostBack.aspx" />
+    <Content Include="Views\6. CheckBox.aspx" />
+    <Content Include="Views\7. ButtonCommand.aspx" />
+    <Content Include="Views\8. DropDownList.aspx" />
+    <Content Include="Views\8.1. CascadingDropDownList.aspx" />
+    <Content Include="Views\9. PageInRoot.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1. ViewState.aspx.cs">
-      <DependentUpon>1. ViewState.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="1. ViewState.aspx.designer.cs">
-      <DependentUpon>1. ViewState.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="11. ListBox.aspx.cs">
-      <DependentUpon>11. ListBox.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="11. ListBox.aspx.designer.cs">
-      <DependentUpon>11. ListBox.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="17. MultiView.aspx.cs">
-      <DependentUpon>17. MultiView.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="17. MultiView.aspx.designer.cs">
-      <DependentUpon>17. MultiView.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="16. Calendar.aspx.cs">
-      <DependentUpon>16. Calendar.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="16. Calendar.aspx.designer.cs">
-      <DependentUpon>16. Calendar.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="15. AdRotater.aspx.cs">
-      <DependentUpon>15. AdRotater.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="15. AdRotater.aspx.designer.cs">
-      <DependentUpon>15. AdRotater.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="14. FileUpload.aspx.cs">
-      <DependentUpon>14. FileUpload.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="14. FileUpload.aspx.designer.cs">
-      <DependentUpon>14. FileUpload.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="13. ListControls.aspx.cs">
-      <DependentUpon>13. ListControls.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="13. ListControls.aspx.designer.cs">
-      <DependentUpon>13. ListControls.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="12. CheckBoxAndListBox.aspx.cs">
-      <DependentUpon>12. CheckBoxAndListBox.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="12. CheckBoxAndListBox.aspx.designer.cs">
-      <DependentUpon>12. CheckBoxAndListBox.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="18..1 WizardControlTemplates.aspx.cs">
-      <DependentUpon>18..1 WizardControlTemplates.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="18..1 WizardControlTemplates.aspx.designer.cs">
-      <DependentUpon>18..1 WizardControlTemplates.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="20. Literal.aspx.cs">
-      <DependentUpon>20. Literal.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="20. Literal.aspx.designer.cs">
-      <DependentUpon>20. Literal.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="19. UseSubmitBehavior Property.aspx.cs">
-      <DependentUpon>19. UseSubmitBehavior Property.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="19. UseSubmitBehavior Property.aspx.designer.cs">
-      <DependentUpon>19. UseSubmitBehavior Property.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="18. WizardControl.aspx.cs">
-      <DependentUpon>18. WizardControl.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="18. WizardControl.aspx.designer.cs">
-      <DependentUpon>18. WizardControl.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="2. StateVariables.aspx.cs">
-      <DependentUpon>2. StateVariables.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="2. StateVariables.aspx.designer.cs">
-      <DependentUpon>2. StateVariables.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="21. Panel.aspx.cs">
-      <DependentUpon>21. Panel.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="21. Panel.aspx.designer.cs">
-      <DependentUpon>21. Panel.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="22. DynamicControl.aspx.cs">
-      <DependentUpon>22. DynamicControl.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="22. DynamicControl.aspx.designer.cs">
-      <DependentUpon>22. DynamicControl.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="23. CustomValidator.aspx.cs">
-      <DependentUpon>23. CustomValidator.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="23. CustomValidator.aspx.designer.cs">
-      <DependentUpon>23. CustomValidator.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="24. Navigation.aspx.cs">
-      <DependentUpon>24. Navigation.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="24. Navigation.aspx.designer.cs">
-      <DependentUpon>24. Navigation.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="3. ViewStateTextBox.aspx.cs">
-      <DependentUpon>3. ViewStateTextBox.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3. ViewStateTextBox.aspx.designer.cs">
-      <DependentUpon>3. ViewStateTextBox.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="3.1. ViewStateTextBox1.aspx.cs">
-      <DependentUpon>3.1. ViewStateTextBox1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3.1. ViewStateTextBox1.aspx.designer.cs">
-      <DependentUpon>3.1. ViewStateTextBox1.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="3.2. SessionState.aspx.cs">
-      <DependentUpon>3.2. SessionState.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3.2. SessionState.aspx.designer.cs">
-      <DependentUpon>3.2. SessionState.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="3.3. SessionState1.aspx.cs">
-      <DependentUpon>3.3. SessionState1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3.3. SessionState1.aspx.designer.cs">
-      <DependentUpon>3.3. SessionState1.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="3.4. ApplicationState.aspx.cs">
-      <DependentUpon>3.4. ApplicationState.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3.4. ApplicationState.aspx.designer.cs">
-      <DependentUpon>3.4. ApplicationState.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="3.5. ApplicationState1.aspx.cs">
-      <DependentUpon>3.5. ApplicationState1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3.5. ApplicationState1.aspx.designer.cs">
-      <DependentUpon>3.5. ApplicationState1.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="4. PageLifeCycle.aspx.cs">
-      <DependentUpon>4. PageLifeCycle.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="4. PageLifeCycle.aspx.designer.cs">
-      <DependentUpon>4. PageLifeCycle.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="5. IsPostBack.aspx.cs">
-      <DependentUpon>5. IsPostBack.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="5. IsPostBack.aspx.designer.cs">
-      <DependentUpon>5. IsPostBack.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="6. CheckBox.aspx.cs">
-      <DependentUpon>6. CheckBox.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="6. CheckBox.aspx.designer.cs">
-      <DependentUpon>6. CheckBox.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="7. ButtonCommand.aspx.cs">
-      <DependentUpon>7. ButtonCommand.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="7. ButtonCommand.aspx.designer.cs">
-      <DependentUpon>7. ButtonCommand.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="8.1. CascadingDropDownList.aspx.cs">
-      <DependentUpon>8.1. CascadingDropDownList.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="8.1. CascadingDropDownList.aspx.designer.cs">
-      <DependentUpon>8.1. CascadingDropDownList.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="8. DropDownList.aspx.cs">
-      <DependentUpon>8. DropDownList.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="8. DropDownList.aspx.designer.cs">
-      <DependentUpon>8. DropDownList.aspx</DependentUpon>
-    </Compile>
     <Compile Include="9. Mapping\ChildOfMapping\ChildOfMapping.aspx.cs">
       <DependentUpon>ChildOfMapping.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -332,24 +129,227 @@
     <Compile Include="9. Mapping\PageInMappingFolder.aspx.designer.cs">
       <DependentUpon>PageInMappingFolder.aspx</DependentUpon>
     </Compile>
-    <Compile Include="10. CheckRadioBulletBoxList.aspx.cs">
-      <DependentUpon>10. CheckRadioBulletBoxList.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="10. CheckRadioBulletBoxList.aspx.designer.cs">
-      <DependentUpon>10. CheckRadioBulletBoxList.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="9. PageInRoot.aspx.cs">
-      <DependentUpon>9. PageInRoot.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="9. PageInRoot.aspx.designer.cs">
-      <DependentUpon>9. PageInRoot.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\1. ViewState.aspx.cs">
+      <DependentUpon>1. ViewState.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\1. ViewState.aspx.designer.cs">
+      <DependentUpon>1. ViewState.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\10. CheckRadioBulletBoxList.aspx.cs">
+      <DependentUpon>10. CheckRadioBulletBoxList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\10. CheckRadioBulletBoxList.aspx.designer.cs">
+      <DependentUpon>10. CheckRadioBulletBoxList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\11. ListBox.aspx.cs">
+      <DependentUpon>11. ListBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\11. ListBox.aspx.designer.cs">
+      <DependentUpon>11. ListBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\12. CheckBoxAndListBox.aspx.cs">
+      <DependentUpon>12. CheckBoxAndListBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\12. CheckBoxAndListBox.aspx.designer.cs">
+      <DependentUpon>12. CheckBoxAndListBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\13. ListControls.aspx.cs">
+      <DependentUpon>13. ListControls.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\13. ListControls.aspx.designer.cs">
+      <DependentUpon>13. ListControls.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\14. FileUpload.aspx.cs">
+      <DependentUpon>14. FileUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\14. FileUpload.aspx.designer.cs">
+      <DependentUpon>14. FileUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\15. AdRotater.aspx.cs">
+      <DependentUpon>15. AdRotater.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\15. AdRotater.aspx.designer.cs">
+      <DependentUpon>15. AdRotater.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\16. Calendar.aspx.cs">
+      <DependentUpon>16. Calendar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\16. Calendar.aspx.designer.cs">
+      <DependentUpon>16. Calendar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\17. MultiView.aspx.cs">
+      <DependentUpon>17. MultiView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\17. MultiView.aspx.designer.cs">
+      <DependentUpon>17. MultiView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\18. WizardControl.aspx.cs">
+      <DependentUpon>18. WizardControl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\18. WizardControl.aspx.designer.cs">
+      <DependentUpon>18. WizardControl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\18..1 WizardControlTemplates.aspx.cs">
+      <DependentUpon>18..1 WizardControlTemplates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\18..1 WizardControlTemplates.aspx.designer.cs">
+      <DependentUpon>18..1 WizardControlTemplates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\19. UseSubmitBehavior Property.aspx.cs">
+      <DependentUpon>19. UseSubmitBehavior Property.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\19. UseSubmitBehavior Property.aspx.designer.cs">
+      <DependentUpon>19. UseSubmitBehavior Property.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\2. StateVariables.aspx.cs">
+      <DependentUpon>2. StateVariables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\2. StateVariables.aspx.designer.cs">
+      <DependentUpon>2. StateVariables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\20. Literal.aspx.cs">
+      <DependentUpon>20. Literal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\20. Literal.aspx.designer.cs">
+      <DependentUpon>20. Literal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\21. Panel.aspx.cs">
+      <DependentUpon>21. Panel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\21. Panel.aspx.designer.cs">
+      <DependentUpon>21. Panel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\22. DynamicControl.aspx.cs">
+      <DependentUpon>22. DynamicControl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\22. DynamicControl.aspx.designer.cs">
+      <DependentUpon>22. DynamicControl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\23. CustomValidator.aspx.cs">
+      <DependentUpon>23. CustomValidator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\23. CustomValidator.aspx.designer.cs">
+      <DependentUpon>23. CustomValidator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\24. Navigation.aspx.cs">
+      <DependentUpon>24. Navigation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\24. Navigation.aspx.designer.cs">
+      <DependentUpon>24. Navigation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\3. ViewStateTextBox.aspx.cs">
+      <DependentUpon>3. ViewStateTextBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\3. ViewStateTextBox.aspx.designer.cs">
+      <DependentUpon>3. ViewStateTextBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\3.1. ViewStateTextBox1.aspx.cs">
+      <DependentUpon>3.1. ViewStateTextBox1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\3.1. ViewStateTextBox1.aspx.designer.cs">
+      <DependentUpon>3.1. ViewStateTextBox1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\3.2. SessionState.aspx.cs">
+      <DependentUpon>3.2. SessionState.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\3.2. SessionState.aspx.designer.cs">
+      <DependentUpon>3.2. SessionState.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\3.3. SessionState1.aspx.cs">
+      <DependentUpon>3.3. SessionState1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\3.3. SessionState1.aspx.designer.cs">
+      <DependentUpon>3.3. SessionState1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\3.4. ApplicationState.aspx.cs">
+      <DependentUpon>3.4. ApplicationState.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\3.4. ApplicationState.aspx.designer.cs">
+      <DependentUpon>3.4. ApplicationState.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\3.5. ApplicationState1.aspx.cs">
+      <DependentUpon>3.5. ApplicationState1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\3.5. ApplicationState1.aspx.designer.cs">
+      <DependentUpon>3.5. ApplicationState1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\4. PageLifeCycle.aspx.cs">
+      <DependentUpon>4. PageLifeCycle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\4. PageLifeCycle.aspx.designer.cs">
+      <DependentUpon>4. PageLifeCycle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\5. IsPostBack.aspx.cs">
+      <DependentUpon>5. IsPostBack.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\5. IsPostBack.aspx.designer.cs">
+      <DependentUpon>5. IsPostBack.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\6. CheckBox.aspx.cs">
+      <DependentUpon>6. CheckBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\6. CheckBox.aspx.designer.cs">
+      <DependentUpon>6. CheckBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\7. ButtonCommand.aspx.cs">
+      <DependentUpon>7. ButtonCommand.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\7. ButtonCommand.aspx.designer.cs">
+      <DependentUpon>7. ButtonCommand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\8. DropDownList.aspx.cs">
+      <DependentUpon>8. DropDownList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\8. DropDownList.aspx.designer.cs">
+      <DependentUpon>8. DropDownList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\8.1. CascadingDropDownList.aspx.cs">
+      <DependentUpon>8.1. CascadingDropDownList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\8.1. CascadingDropDownList.aspx.designer.cs">
+      <DependentUpon>8.1. CascadingDropDownList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\9. PageInRoot.aspx.cs">
+      <DependentUpon>9. PageInRoot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\9. PageInRoot.aspx.designer.cs">
+      <DependentUpon>9. PageInRoot.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

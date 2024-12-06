@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\",
+  "WorkspaceRootPath": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\asp.net tutorial for beginners\\24. navigation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|c:\\users\\swapn\\desktop\\pragimtech\\workings\\asp.net tutorial for beginners\\asp.net tutorial for beginners\\24. navigation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|solutionrelative:asp.net tutorial for beginners\\24. navigation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\asp.net tutorial for beginners\\24. navigation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\asp.net tutorial for beginners\\24. navigation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|solutionrelative:asp.net tutorial for beginners\\24. navigation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|c:\\users\\swapn\\desktop\\pragimtech\\workings\\asp.net tutorial for beginners\\asp.net tutorial for beginners\\3. viewstatetextbox.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F421A0A-243F-469A-86A6-9E757814D072}|ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners.csproj|solutionrelative:asp.net tutorial for beginners\\3. viewstatetextbox.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "24. Navigation.aspx.cs",
-              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
-              "RelativeDocumentMoniker": "ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
-              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
-              "RelativeToolTip": "ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "3. ViewStateTextBox.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\3. ViewStateTextBox.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.NET Tutorial for Beginners\\3. ViewStateTextBox.aspx.cs",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\3. ViewStateTextBox.aspx.cs",
+              "RelativeToolTip": "ASP.NET Tutorial for Beginners\\3. ViewStateTextBox.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:16:04.602Z",
+              "WhenOpened": "2024-12-06T06:20:29.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "24. Navigation.aspx",
-              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx",
               "RelativeDocumentMoniker": "ASP.NET Tutorial for Beginners\\24. Navigation.aspx",
-              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx",
               "RelativeToolTip": "ASP.NET Tutorial for Beginners\\24. Navigation.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-26T15:15:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "24. Navigation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\PragimTech\\Workings\\ASP.NET Tutorial for Beginners\\ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
+              "RelativeToolTip": "ASP.NET Tutorial for Beginners\\24. Navigation.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:16:04.602Z",
               "EditorCaption": ""
             }
           ]
